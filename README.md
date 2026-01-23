@@ -13,14 +13,14 @@ Machine Learning, Time Series Forecasting, Deep Learning, Deep Reinforcement Lea
 **Optimization & Simulation**  
 Gurobi, IBM CPLEX, Arena, AnyLogic  
 
+**Data & Analytics**  
+Power BI, Tableau, D3.js, Databricks, Snowflake, Excel  
+
 **Backend & APIs**  
 Flask, FastAPI, Node.js, Express.js, REST APIs, OpenAPI, Webhooks  
 
 **Frontend & Frameworks**  
 Next.js, React  
-
-**Data & Analytics**  
-Power BI, Tableau, Databricks, Snowflake, Excel  
 
 **MLOps & Infrastructure**  
 Docker, Git, GitHub, CI/CD (GitHub Actions), n8n  
