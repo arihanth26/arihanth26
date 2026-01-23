@@ -8,7 +8,7 @@ I’m currently pursuing an MS in Computational Data Science to strengthen the c
 Python, SQL, C++, R, JavaScript, TypeScript  
 
 **Modeling & ML**  
-Machine Learning, Time Series Forecasting, Deep Learning, Deep Reinforcement Learning, NLP  
+Machine Learning, Time Series Forecasting, Deep Learning, Deep Reinforcement Learning, NLP, Graphical Models
 
 **Optimization & Simulation**  
 Gurobi, IBM CPLEX, Arena, AnyLogic  
